@@ -1,0 +1,97 @@
+*
+{
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.intro-header
+{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1870px;
+    height: 84px;
+    
+}
+
+.intro-header img
+{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.all
+{
+    background-image: url(Assets/background.png);
+    min-height: 100vh;
+    max-width: 100%;
+    background-color: #1f1f1f;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+
+.main
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 31.5vh;
+
+}
+
+.main img
+{
+    width: 16%;
+    height: auto;
+
+}
+
+.nav
+{
+    padding-top: 2vh;
+    display: flex;
+    justify-content: center; 
+    flex-direction: row; 
+    flex-wrap: wrap;
+}
+
+.nav button
+{
+    background-color: #363636;
+    color: rgb(158, 158, 158);
+    font-size: 30px;
+    padding: 10px 45px 10px 45px;
+    border-radius: 10px;
+    border:none;
+    margin: 4.5vh;
+}
+
+.nav button:hover
+{
+    color: white;
+    cursor: pointer;
+}
+
+.container
+{
+    margin-inline: auto;
+    padding-inline: auto;
+    flex-wrap: wrap;
+
+}
+
+img 
+{
+    display: block;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+

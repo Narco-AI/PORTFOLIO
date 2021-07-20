@@ -1,0 +1,19 @@
+@media screen 
+  and (max-device-width: 1600px){
+
+    .intro-header
+    {
+        width: 1400px;
+    }
+
+    .nava
+    {
+        padding-top: 8vh;
+    }
+
+    .ii
+    {
+        left: 132vh;
+        top: 61vh;
+    }
+}

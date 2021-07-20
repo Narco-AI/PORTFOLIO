@@ -1,0 +1,59 @@
+
+.about-desc
+{
+    box-sizing: border-box;
+    width: 100%;
+    padding-top: 7vh;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow:wrap;
+}
+
+.about-desc pre
+{
+    color: white;
+    background-color: #363636;
+    border-style: dotted;
+    border-radius: 10px;
+    padding-right: 6vh;
+}
+
+.about-container
+{
+    padding-top: 13.5%;
+}
+
+.about-desc img
+{   
+    position: fixed;
+    right: 30%;
+    top: 42.5%;
+}
+.nava
+{
+    padding-top: 8%;
+    display: flex;
+    justify-content: center; 
+    flex-direction: row; 
+    flex-wrap: wrap;
+}
+
+.nava button
+{
+    background-color: #363636;
+    color: rgb(158, 158, 158);
+    font-size: 30px;
+    padding: 10px 45px 10px 45px;
+    border-radius: 10px;
+    border:none;
+    margin: 4.5vh;
+}
+
+.nava button:hover
+{
+    color: white;
+    cursor: pointer;
+}
+
