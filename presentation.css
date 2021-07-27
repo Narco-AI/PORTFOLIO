@@ -1,0 +1,10 @@
+iframe
+{
+    display: flex;
+    justify-content: center;
+    width: 250%;
+    height: 50vh;
+    border-color: orange;
+    border-radius: 10px;
+    border-style: dotted;
+}
