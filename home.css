@@ -53,8 +53,6 @@
     height: auto;
 
 }
-
-
 .nav
 {
     padding-top: 2vh;
@@ -67,12 +65,13 @@
 .nav button
 {
     background-color: #363636;
-    color: rgb(158, 158, 158);
+    color: rgb(160, 160, 160);
     font-size: 30px;
     padding: 10px 45px 10px 45px;
     border-radius: 10px;
-    border:none;
+    border-style: dotted;
     margin: 4.5vh;
+    border-color: #ee8888;
 }
 
 .nav button:hover
