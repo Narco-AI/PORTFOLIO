@@ -1,0 +1,20 @@
+.port-container-col1 h1
+{
+    color: orange;
+    background-color: rgb(41, 41, 41);
+    border-radius: 10px;
+    padding-bottom: 2vh;
+
+}
+
+.port-container-col1 a
+{
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.port-container-col1
+{
+    margin-top: 10vh;
+}
