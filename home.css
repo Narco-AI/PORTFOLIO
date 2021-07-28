@@ -97,3 +97,14 @@ img
     max-width: 100%;
     flex-wrap: wrap;
 }
+
+.container h2
+{
+    color: #ee8888;
+    float: left;
+    top: 4vh;
+    position: -webkit-sticky;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    padding-right: 2vh;
+}
