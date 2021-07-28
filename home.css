@@ -1,3 +1,6 @@
+::-moz-selection { color: #ee8888;}
+::selection { color: #ee8888; }
+
 *
 {
     background-size: cover;
