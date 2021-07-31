@@ -12,13 +12,13 @@ body
 .port-container
 {
     max-width: 50rem;
-    max-height: 50vh;
+    max-height: 55vh;
 	margin: 0 auto;
 	padding: 0 2rem 2rem;
   background-color: #363636;
   border-style: dotted;
   border-radius: 10px;
-  border-color: white;
+  border-color: #ee8888;
   overflow:auto;
 }
 

@@ -109,6 +109,7 @@
     margin-inline: auto;
     padding-inline: auto;
     flex-wrap: wrap;
+    background-image: url(assets/printed-background.png);
 
 }
 

@@ -12,18 +12,19 @@ body
 .port-container
 {
     max-width: 40rem;
-    max-height: 50vh;
+    max-height: 55vh;
 	margin: 0 auto;
 	padding: 0 2rem 2rem;
-  background-color: #363636;
-  border-style: dotted;
-  border-radius: 10px;
-  border-color: white;
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: #ee8888;
+    background-image: url(assets/printed-background.png);
+
 }
 
 pre
 {
-    color: white;
+    color: rgb(212, 212, 212);
 }
 
 .port-container-col2
@@ -73,7 +74,30 @@ pre
     margin-top: 2vh;
 }
 
+.categories
+{
+    color: #ffffff;
+    background-color: rgb(51, 51, 51);
+    border-style: none;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: #ee8888;
+    padding: 5px 10px 5px 10px;
+    margin-right: 1.4vh;
+    margin-bottom: 1vh;
+    font-size: 13px;
+}
 
+.about-categories
+{
+    background-image: url(assets/bg-lined.png);
+    border-radius: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
 
 
 

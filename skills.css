@@ -1,0 +1,14 @@
+.port-container-col1 h2
+{
+    color: rgba(255, 255, 255, 0.534);
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.port-container-col1 h3
+{
+    color: WHITE;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+}
