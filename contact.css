@@ -33,7 +33,7 @@ textarea {
 }
 
 #container {
-  border: solid 3px #474544;
+  border: solid 3px #ee88885d;
   max-width: 768px;
   margin: 1px auto;
   position: relative;
@@ -54,7 +54,7 @@ h1 {
 }
 
 .underline {
-  border-bottom: solid 2px #474544;
+  border-bottom: solid 2px #ee8888;
   margin: -0.512em auto;
   width: 80px;
 }
@@ -226,4 +226,19 @@ textarea {
 .port
 {
     padding-bottom: 10vh;
+}
+
+.underline h4
+{
+  color: #ffffff;
+  font-size: large;
+  font-weight: lighter;
+  background-color: #3a3a3a;
+  border-color: white;
+  cursor: pointer;
+}
+
+.underline h4:hover
+{
+  color: #ee8888;
 }
