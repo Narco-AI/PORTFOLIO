@@ -19,6 +19,8 @@ body
     border-radius: 10px;
     border-color: #ee8888;
     background-image: url(assets/printed-background.png);
+    overflow: hidden;
+    overflow-y: scroll;
 
 }
 
@@ -91,18 +93,38 @@ pre
 .about-categories
 {
     background-image: url(assets/bg-lined.png);
-    border-radius: 10px;
-    padding-top: 10px;
+    padding-top: 8px;
     display: flex;
     justify-content: center;
     flex-direction: row;
+    border-style: double;
+    border-color: rgb(88, 88, 88);
+    border-radius: 10px;
+    margin-top: 2vh;
     
 }
 
+.design-container img
+{
+    width: 100%;
+    
+}
 
+.design-container
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 4vh;
+    background-color: rgba(34, 34, 34, 0.664);
+    padding: 10px 10px 10px 10px;
+    border-color: white;
+    border-style: double;
+}
 
-
-
+.about-categories button
+{
+    cursor: pointer;
+}
 
 
 
