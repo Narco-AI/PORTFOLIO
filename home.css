@@ -44,7 +44,7 @@
     
 }
 
-.intro-header img
+.intro-header video
 {
     border-radius: 10px;
     display: flex;
@@ -111,6 +111,14 @@
     flex-wrap: wrap;
     background-image: url(assets/printed-background.png);
 
+}
+
+video
+{
+    display: block;
+    max-width: 100%;
+    flex-wrap: wrap;
+    border-radius: 10px;
 }
 
 img 
