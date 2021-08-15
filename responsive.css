@@ -17,3 +17,16 @@
         top: 61vh;
     }
 }
+
+@media only screen and (max-width: 600px) {
+
+      .main img
+      {
+        width: 70%;
+      }
+
+      video
+      {
+          width: 900px;
+      }
+    }
