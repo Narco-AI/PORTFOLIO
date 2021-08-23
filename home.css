@@ -123,6 +123,7 @@ video
 
 img 
 {
+    border-radius: 10px;
     display: block;
     max-width: 100%;
     flex-wrap: wrap;
