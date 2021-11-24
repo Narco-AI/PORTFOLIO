@@ -49,3 +49,24 @@ h1
     color: white;
     cursor: pointer;
 }
+
+.updating
+{
+    font-size: smaller;
+    margin: 0 auto;
+	padding: 0 2rem 2rem;
+    color: rgb(251, 255, 0);
+    display: flex;
+    max-width: 30rem;
+    max-height: 55vh;
+    position: relative;
+    top: 3vh;
+    text-decoration: underline;
+    
+}
+
+.updating a 
+{
+    text-decoration: none;
+    color: white;
+}
